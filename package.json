@@ -24,7 +24,6 @@
     "request": "^2.76.0",
     "request-progress": "^2.0.1",
     "sprintfjs": "^1.2.3",
-    "tar.gz": "^1.0.5",
     "underscore": "^1.8.3"
   }
 }
