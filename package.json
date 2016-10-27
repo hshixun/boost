@@ -1,0 +1,30 @@
+{
+  "name": "boost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hshixun/boost.git"
+  },
+  "author": "Enrico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hshixun/boost/issues"
+  },
+  "homepage": "https://github.com/hshixun/boost#readme",
+  "dependencies": {
+    "async": "^2.1.2",
+    "colors": "^1.1.2",
+    "prettysize": "0.0.3",
+    "progress": "^1.1.8",
+    "request": "^2.76.0",
+    "request-progress": "^2.0.1",
+    "sprintfjs": "^1.2.3",
+    "tar.gz": "^1.0.5",
+    "underscore": "^1.8.3"
+  }
+}
