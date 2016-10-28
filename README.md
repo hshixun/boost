@@ -15,11 +15,13 @@ npm install
 
 ### build
 
+On Linux, install zlib-devel, bzip2-devel, python-devel first
+
 ```sh
 node index.js
 ```
 
-insufficient memory(only 1GB) may fail to compile
+insufficient memory (only 1GB) may fail to compile
 
 ```
 failed gcc.compile.c++ bin.v2/libs/log/build/gcc-4.8.5/release/link-static/threading-multi/setup/init_from_settings.o
