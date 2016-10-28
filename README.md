@@ -13,7 +13,7 @@ node.js environment is required
 npm install
 ```
 
-### build
+### build boost
 
 On Linux, install zlib-devel, bzip2-devel, python-devel first
 
