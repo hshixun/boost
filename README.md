@@ -1,7 +1,7 @@
-# boost
+# C++ boost build
 boost build script
 
-the script will download the latest C++ boost and dependencies
+the script will download the latest C++ boost and dependencies(icu)
 
 ### install
 node.js environment is required
@@ -13,7 +13,6 @@ node index.js
 
 ### TODO
 
-  - ICU, iconv dependency download
   - openssl dependency download
-  - build
+  - b2 build
 
